@@ -23,6 +23,16 @@ It's simple, stylish, and a great exercise for anyone learning Java fundamentals
 As a fashion enthusiast learning to code, I wanted to blend two passions: style and software.  
 This project reflects both — a personal take on how programming can intersect with creativity.
 
+# 📘 What I learned
+
+This project allowed me to:
+
+- Practice Java fundamentals like conditionals, user input, and methods
+- Understand how to structure a simple interactive console application
+- Use GitHub’s web interface to build and manage a project without local tools
+- Write cleaner, more readable code with meaningful structure
+
+  
 ---
 
 🎀 Created with love for fashion and clean code
